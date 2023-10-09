@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+flask-swagger = "*"
+flasgger = "==0.3.8"
+flask-migrate = "*"
+flask-cors = "*"
+flask = "*"
+api = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
